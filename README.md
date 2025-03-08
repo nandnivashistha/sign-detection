@@ -3,13 +3,13 @@ The Sign Detection project is an AI-powered system that recognizes and interpret
 📊 Dataset
 The model is trained on a custom dataset of hand signs. You can enhance its performance by adding more labeled images to the dataset.
 
-🚀 How It Works
-1️⃣ Capture hand gestures using a webcam
-2️⃣ Process images with OpenCV & preprocess for the model
-3️⃣ Predict the sign using a trained deep learning model
-4️⃣ Display the recognized sign on the screen
+How It Works-
+1. Capture hand gestures using a webcam
+2. Process images with OpenCV & preprocess for the model
+3.  Predict the sign using a trained deep learning model
+4.  Display the recognized sign on the screen
 
-🤝 Contributing
+Contributing-
 Want to improve this project? Follow these steps:
 1. Fork the repository
 2. Create a feature branch (git checkout -b feature-xyz)
